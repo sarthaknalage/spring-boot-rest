@@ -1,0 +1,5 @@
+Here we do business to business communication and for that this package is acts like the consumer application and class
+from another package is used as providing purpose and which is following the DAO pattern.
+
+URI we're communicating is http://localhost:8080/sarthak/
+// need to be develop separate project required to be run on separate port number for smoothing the Integration among them
